@@ -1,1 +1,2 @@
 1. 일단 배포 시작!!!
+2. develop의 feature 1 추가
